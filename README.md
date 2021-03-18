@@ -1,8 +1,16 @@
 # 学习笔记
 
+## 关于我
+
+**陌溪** 是一个从三本院校一路摸滚翻爬上来的程序员。目前就职于 **字节跳动的Data广告部门**，是字节跳动全线产品的商业变现研发团队。这两天创建了一个 **微信公众号【陌溪教你学编程】**，未来将会在公众号上持续性的输出很多原创小知识以及学习资源，欢迎各位小伙伴关注我，和我一起共同学习，同时我也希望各位小伙伴能够给**LearningNotes**项目**多多 Star支持**，您的**点赞**就是我维护的动力！
+
+|                 微信公众号【陌溪教你学编程】                 |                   微信群【陌溪教你学编程】                   |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://gitee.com/moxi159753/wx_picture/raw/master/picture/公众号.jpg" width="200" /> | <img src="https://gitee.com/moxi159753/wx_picture/raw/master/picture/微信群.png" width="200" /> |
+
 ## 项目介绍
 
-Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在 [蘑菇博客](http://www.moguit.cn)，如果对我的博客网站感兴趣的话，欢迎关注我的 [蘑菇博客源码](https://gitee.com/moxi159753/mogu_blog_v2)，如果笔记对您有帮助的话，欢迎star支持，谢谢~
+个人学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在 [蘑菇博客](http://www.moguit.cn)，如果对我的博客网站感兴趣的话，欢迎关注我的 [蘑菇博客源码](https://gitee.com/moxi159753/mogu_blog_v2)，如果笔记对您有帮助的话，欢迎star支持，谢谢~
 
 笔记主要涵盖：Java，JVM、JUC、Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等
 
@@ -29,11 +37,24 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 
 如果想搭建个人的博客系统，可以购买优惠服务器后，参考 [教程](http://www.moguit.cn/#/info?blogUid=8100dcb585fff77e3fa25eed50e3708e) 在服务器搭建 [蘑菇博客项目](https://gitee.com/moxi159753/mogu_blog_v2) 用于知识点的梳理
 
-> 【阿里云】 限量爆款低至91.8元/年 [点我进入](https://www.aliyun.com/minisite/goods?userCode=w7aungxw)
+> 【阿里云】云服务器双12狂欢特惠，1核2G 5M轻量级应用服务器114元/年【博主使用】 [点我传送](https://www.aliyun.com/minisite/goods?userCode=w7aungxw) 
 >
-> 【腾讯云】十周年感恩回馈，1核2G云服务器首年95元 [点我进入](https://cloud.tencent.com/act/cps/redirect?redirect=1067&cps_key=4e9b8ce643afe47621493331d101dd6e&from=console)
->
-> 【阿里云翼计划】 轻量级应用服务器 1核2G 5M / 年 (博主目前使用的) 仅需114元 [点我进入 ](https://promotion.aliyun.com/ntms/act/campus2018.html?spm=5176.10695662.1244717.1.641e5a06KpmU4A&accounttraceid=3ac1b990a4f445859080d2555566af8fiirr?userCode=w7aungxw&tag=share_component&share_source=copy_link?userCode=w7aungxw&tag=share_component&share_source=copy_link?userCode=w7aungxw&tag=share_component&share_source=copy_link&userCode=w7aungxw&tag=share_component&share_source=copy_link)`(仅限学生或未满24岁的用户)`
+> 【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年99元（老用户重新用微信QQ注册即可） [点我进入](https://curl.qcloud.com/zry6xub9)
+
+## 公众号文章
+
+> 来源陌溪的个人公众号：**陌溪教你学编程**
+
+- [大型生产事故,开源项目蘑菇博客差点被删库](https://mp.weixin.qq.com/s/UprMwItKjJ-Bcj1Z5ija1g)
+- [蘑菇博客从0到2000Star，分享我的Java自学路线图](https://mp.weixin.qq.com/s/3u6OOYkpj4_ecMzfMqKJRw)
+- [陌溪在开源社区逛了几个月, 终于写下了蘑菇博客的开源文档](https://mp.weixin.qq.com/s/VXH19dQRkNtPbzDMVXwsPQ)
+- [从三本院校到斩获字节跳动后端研发Offer-讲述我的故事](https://mp.weixin.qq.com/s/c4rR_aWpmNNFGn-mZBLWYg)
+- [年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客](https://mp.weixin.qq.com/s/geq912p7hinDEeNU1Py1jQ)
+- [蘑菇博客前端页面如何引入矢量图标](https://mp.weixin.qq.com/s/mO0HlIZsjdluY16YW8rOdA)
+- [Windows+VMware快速搭建蘑菇博客本地开发环境](https://mp.weixin.qq.com/s/9aB7yyP9j67MS-zhigJFWA)
+- [一份百投百中的计算机校招简历是如何诞生的](https://mp.weixin.qq.com/s/IWjVpVkRbthCo5BtdW5R4g)
+- [陌溪在公众号摸滚翻爬半个月，整理的入门指南](https://mp.weixin.qq.com/s/Jj1i-mD9Tw0vUEFXi5y54g)
+- [Nacos出现重大安全漏洞,开源项目险遭脱库](https://mp.weixin.qq.com/s/8DtVEtJZU47Ugr802l9ZWg)
 
 ## Java
 
@@ -115,7 +136,7 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [CyclicBarrier是什么](./校招面试/JUC/7_CountDownLatch_CyclicBarrier_Semaphore使用/CyclicBarrier/README.md)
 - [Semaphore是什么](./校招面试/JUC/7_CountDownLatch_CyclicBarrier_Semaphore使用/Semaphore/README.md)
 - [Java中的阻塞队列](./校招面试/JUC/8_阻塞队列/README.md)
-- [Synchronized和Lock的区别与好处](./校招面试/JUC/Synchronized和Lock的区别与好处/README.md)
+- [Synchronized和Lock的区别与好处](./校招面试/JUC/9_Synchronized和Lock的区别与好处/README.md)
 - [Java线程池详解](./校招面试/JUC/10_线程池/README.md)
 - [死锁编码及快速定位](./校招面试/JUC/11_死锁编码及快速定位/README.md)
 - [JVM体系结构](./校招面试/JUC/12_JVM/JVM体系结构/README.md)
@@ -128,6 +149,42 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [Github学习](./校招面试/JUC/14_Github学习/README.md)
 - [乐观锁和悲观锁](./校招面试/JUC/15_乐观锁和悲观锁/README.md)
 - [源码](./校招面试/JUC/Code)
+
+## Docker
+
+- [DockerCompose入门学习](./Docker/DockerCompose入门学习/README.md)
+- [Docker操作系统之Alpine](./Docker/Docker操作系统之Alpine/README.md)
+- [Docker容器相关命令](./Docker/Docker容器相关命令/README.md)
+- [Docker图形化工具Portainer介绍与安装](./Docker/Docker图形化工具Portainer介绍与安装/README.md)
+- [对象存储MinIO入门简介](./Docker/对象存储MinIO入门简介/README.md)
+- [如何将镜像推送到阿里云容器镜像服务](./Docker/如何将镜像推送到阿里云容器镜像服务/README.md)
+- [使用DockerCompose制作蘑菇博客YAML镜像文件](./Docker/使用DockerCompose制作蘑菇博客YAML镜像文件/README.md)
+- [使用GithubAction构建蘑菇博客镜像提交DockerHub](./Docker/使用GithubAction构建蘑菇博客镜像提交DockerHub/README.md)
+
+## K8S
+
+> 来源Bilibili尚硅谷教程：[k8s教程由浅入深-尚硅谷](https://www.bilibili.com/video/BV1GT4y1A756)
+
+
+- [Kubernetes简介](./K8S/1_Kubernetes简介/README.md)
+- [搭建K8S集群前置知识](./K8S/2_搭建K8S集群前置知识/README.md)
+- [使用kubeadm方式搭建K8S集群](./K8S/3_使用kubeadm方式搭建K8S集群/README.md)
+- [使用二进制方式搭建K8S集群](./K8S/4_使用二进制方式搭建K8S集群/README.md)
+- [Kubeadm和二进制方式对比](./K8S/5_Kubeadm和二进制方式对比/README.md)
+- [Kubernetes集群管理工具kubectl](./K8S/6_Kubernetes集群管理工具kubectl/README.md)
+- [Kubernetes集群YAML文件详解](./K8S/7_Kubernetes集群YAML文件详解/README.md)
+- [Kubernetes核心技术Pod](./K8S/8_Kubernetes核心技术Pod/README.md)
+- [Kubernetes核心技术Controller](./K8S/9_Kubernetes核心技术Controller/README.md)
+- [Kubernetes核心技术Service](./K8S/10_Kubernetes核心技术Service/README.md)
+- [Kubernetes控制器Controller详解](./K8S/11_Kubernetes控制器Controller详解/README.md)
+- [Kubernetes配置管理](./K8S/12_Kubernetes配置管理/README.md)
+- [Kubernetes集群安全机制](./K8S/13_Kubernetes集群安全机制/README.md)
+- [Kubernetes核心技术Ingress](./K8S/14_Kubernetes核心技术Ingress/README.md)
+- [Kubernetes核心技术Helm](./K8S/15_Kubernetes核心技术Helm/README.md)
+- [Kubernetes持久化存储](./K8S/16_Kubernetes持久化存储/README.md)
+- [Kubernetes集群资源监控](./K8S/17_Kubernetes集群资源监控/README.md)
+- [Kubernetes搭建高可用集群](./K8S/18_Kubernetes搭建高可用集群/README.md)
+- [Kubernetes容器交付介绍](./K8S/19_Kubernetes容器交付介绍/README.md)
 
 ## 中间件
 
@@ -168,6 +225,27 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [SpringCloudAlibabaSeata处理分布式事务](./SpringCloud/SpringCloud2020/15_SpringCloudAlibabaSeata处理分布式事务/README.md)
 - [使用Zipkin搭建蘑菇博客链路追踪](./SpringCloud/使用Zipkin搭建蘑菇博客链路追踪/README.md)
 - [源码](./SpringCloud/SpringCloud2020/SpringCloud2020)
+
+## SpringSecurity
+
+> 来源Bilibili黑马程序员视频教程：[手把手教你精通新版SpringSecurity](https://www.bilibili.com/video/BV1EE411u7YV)
+
+- [初识SpringSecurity](./SpringSecurity/1_初识SpringSecurity/README.md)
+- [SpringSecurity在MVC项目中的使用](./SpringSecurity/2_SpringSecurity在MVC项目中的使用/README.md)
+- [SpringSecurity在单机环境下的使用](./SpringSecurity/3_SpringSecurity在单机环境下的使用/README.md)
+- [SpringSecurity在分布式环境下的使用](./SpringSecurity/4_SpringSecurity在分布式环境下的使用/README.md)
+- [OAuth2.0介绍](./SpringSecurity/5_OAuth2.0介绍/README.md)
+
+## ElasticStack
+
+> 来源Bilibili黑马程序员的视频：[Elastic Stack（ELK）从入门到实践](https://www.bilibili.com/video/BV1iJ411c7Az)
+
+- [ElasticSearch介绍与安装](./ElasticStack/1_ElasticSearch介绍与安装)
+- [Beats入门简介](./ElasticStack/2_Beats入门简介)
+- [Kibana安装与介绍](./ElasticStack/3_Kibana安装与介绍)
+- [Logstash入门简介](./ElasticStack/4_Logstash入门简介)
+- [ElasticStack综合案例](./ElasticStack/5_ElasticStack综合案例)
+- [使用ELK搭建蘑菇博客日志收集](./ElasticStack/6_使用ELK搭建蘑菇博客日志收集)
 
 ## 算法学习
 
@@ -220,7 +298,7 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [希尔排序](./数据结构/43_希尔排序/README.md)
 - [归并排序](./数据结构/44_归并排序/README.md)
 - [快速排序](./数据结构/45_快速排序/README.md)
-- [动态规划算法](./数据结构/动态规划算法/README.md)
+- [常见的动态规划算法](./数据结构/动态规划算法/常见的动态规划算法/README.md)
 - [源码](./数据结构/NowCode)
 
 ## SpringBoot
@@ -260,8 +338,6 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 
 ## 杂记
 
-- [Windows环境下搭建蘑菇博客](./杂记/Windows环境下搭建蘑菇博客/README.md)
-- [Docker搭建蘑菇博客](./杂记/Docker搭建蘑菇博客/README.md)
 - [CKEditor前端样式和编辑器的样式不一致的问题](./杂记/CKEditor前端样式和编辑器的样式不一致的问题/README.md)
 - [Ckeidtor中上传图片添加token信息](./杂记/ckeidtor中上传图片添加token信息/README.md)
 - [CLion搭建C语言开发环境](./杂记/CLion搭建C语言开发环境/README.md)
@@ -274,6 +350,10 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [记一次蘑菇博客差点被删库的经历](./杂记/记一次蘑菇博客差点被删库的经历/README.md)
 - [解决git默认不区分大小写的问题](./杂记/解决git默认不区分大小写的问题/README.md)
 - [蘑菇博客从Eureka迁移到Nacos](./杂记/蘑菇博客从Eureka迁移到Nacos/README.md)
+- [Windows环境下搭建蘑菇博客](./杂记/Windows环境下搭建蘑菇博客/README.md)
+- [Docker搭建蘑菇博客(Eureka版)](./杂记/Docker搭建蘑菇博客(Eureka版)/README.md)
+- [Docker搭建蘑菇博客(Nacos版)](./杂记/Docker搭建蘑菇博客(Nacos版)/README.md)
+- [DockerCompose一键部署蘑菇博客(Nacos版)](./杂记/DockerCompose一键部署蘑菇博客(Nacos版)/README.md)
 - [蘑菇博客Nacos安装指南](./杂记/蘑菇博客Nacos安装指南/README.md)
 - [蘑菇博客Sentinel安装指南](./杂记/蘑菇博客Sentinel安装指南/README.md)
 - [蘑菇博客QQ小程序发布指南](./杂记/蘑菇博客QQ小程序发布指南/README.md)
@@ -282,7 +362,8 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [蘑菇博客配置七牛云存储](./杂记/蘑菇博客配置七牛云存储/README.md)
 - [蘑菇博客配置域名解析](./杂记/蘑菇博客配置域名解析/README.md)
 - [蘑菇博客切换搜索模式](./杂记/蘑菇博客切换搜索模式/README.md)
-- [蘑菇博客如何部署到阿里云服务器](./杂记/蘑菇博客如何部署到阿里云服务器/README.md)
+- [蘑菇博客部署到阿里云服务器(Eureka版)](./杂记/蘑菇博客部署到阿里云服务器(Eureka版)/README.md)
+- [蘑菇博客部署到阿里云服务器(Nacos版)](./杂记/蘑菇博客部署到阿里云服务器(Nacos版)/README.md)
 - [蘑菇博客如何扩展新的功能和页面](./杂记/蘑菇博客如何扩展新的功能和页面/README.md)
 - [蘑菇博客使用GithubAction完成持续集成](./杂记/蘑菇博客使用GithubAction完成持续集成/README.md)
 - [蘑菇博客使用SQL语句进行搜索出的内容忽略大小写并添加高亮效果](./杂记/蘑菇博客使用SQL语句进行搜索出的内容忽略大小写并添加高亮效果/README.md)
@@ -296,7 +377,7 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [罗技K380快捷键](./杂记/罗技K380快捷键/README.md)
 - [将PDF转换为Kindle能识别的MOBI格式](./杂记/将PDF转换为Kindle能识别的MOBI格式/README.md)
 - [OCR文字识别软件](./杂记/OCR文字识别软件/README.md)
-- 
+- [如何向开源社区正确提问](./杂记/如何向开源社区正确提问/README.md)
 
 ## Linux
 
@@ -305,6 +386,10 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [CentOS下如何安装Nginx](./Linux/CentOS下如何安装Nginx/README.md)
 - [记一次因代码出错不断输出日志占满Docker容器硬盘的排查经历](./Linux/记一次因代码出错不断输出日志占满Docker容器硬盘的排查经历/README.md)
 - [CentOS下安装Nacos](./Linux/CentOS下安装Nacos/README.md)
+- [CentOS下安装Sentinel](./Linux/CentOS下安装Sentinel/README.md)
+- [VMWare中CentOS如何配置固定IP](./Linux/VMWare中CentOS如何配置固定IP/README.md)
+- [CentOS中将文本中的ip替换成服务器外网ip](./Linux/CentOS中将文本中的ip替换成服务器外网ip/README.md)
+- [Asciinema-一种基于文本的终端录制方法](./Linux/Asciinema-一种基于文本的终端录制方法/README.md)
 
 ## Redis
 
@@ -370,13 +455,52 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 - [Golang中的反射](./Golang/Golang基础/16_Golang中的反射/README.md)
 - [源码](./Golang/Golang基础/Code)
 
+## Golang进阶
+
+> 来源bilibili 七米老师的学习视频：[点我传送](https://www.bilibili.com/video/BV17Q4y1P7n9)
+>
+> 李文周老师的博客：[点我传送](https://www.liwenzhou.com/)
+
+- [Golang并发编程](./Golang/Golang进阶/4_Golang并发编程/README.md)
+- [互联网协议介绍](./Golang/Golang进阶/5_互联网协议介绍/README.md)
+- [HTTP请求](./Golang/Golang进阶/6_HTTP请求/README.md)
+- [日志库](./Golang/Golang进阶/7_日志库/README.md)
+- [反射](./Golang/Golang进阶/8_反射/README.md)
+- [单元测试](./Golang/Golang进阶/9_单元测试/README.md)
+- [Flag包的用法](./Golang/Golang进阶/10_Flag包的用法/README.md)
+- [Go操作数据库](./Golang/Golang进阶/11_Go操作数据库/README.md)
+- [sqlx库的使用](./Golang/Golang进阶/12_sqlx库的使用/README.md)
+- [Go操作Redis](./Golang/Golang进阶/13_Go操作Redis/README.md)
+- [Go操作消息队列](./Golang/Golang进阶/14_Go操作消息队列/README.md)
+- [Go的依赖管理GoModule](./Golang/Golang进阶/15_Go的依赖管理GoModule/README.md)
+- [GoContext的使用](./Golang/Golang进阶/16_GoContext的使用/README.md)
+- [日志收集项目架构设计及Kafka介绍](./Golang/Golang进阶/17_日志收集项目架构设计及Kafka介绍/README.md)
+- [etcd介绍](./Golang/Golang进阶/18_etcd介绍/README.md)
+- [ES介绍和使用](./Golang/Golang进阶/19_ES介绍和使用/README.md)
+- [Kafka消费示例](./Golang/Golang进阶/20_Kafka消费示例/README.md)
+- [Kibana介绍和使用](./Golang/Golang进阶/21_Kibana介绍和使用/README.md)
+- [Prometheus和Grafana介绍](./Golang/Golang进阶/22_Prometheus和Grafana介绍/README.md)
+- [源码](./Golang/Golang进阶/GoAdvanceCode)
+
+## Golang框架-Gin
+
+> 来源bilibili 七米老师的学习视频：[点我传送](https://www.bilibili.com/video/BV17Q4y1P7n9)
+>
+> 李文周老师的博客：[点我传送](https://www.liwenzhou.com/)
+
+- [Gin内容介绍](./Golang/Gin框架/1_Gin内容介绍/README.md)
+- [Http及Template介绍](./Golang/Gin框架/2_http及Template介绍/README.md)
+- [GORM介绍和使用](./Golang/Gin框架/3_GORM介绍和使用/README.md)
+- [GORM进行CURD](./Golang/Gin框架/4_GORM进行CURD/README.md)
+- [源码](./Golang/Gin框架/Code)
+
 ## 关注&交流
 
-刚刚创建了一个QQ群 (**加群备注**：`蘑菇博客`) <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=88bc57d77601a3c5ae97fe6d9c0bfa25c2ae166d8f0b9f6da6f7294097be6d08"><img border="0" src="./doc/images/qq/group.png" alt="蘑菇博客交流群" title="蘑菇博客交流群"></a>，目前项目还存在很多不足之处，欢迎各位老哥进群进行技术交流，为了防止广告进入，希望加群的时候能添加备注，谢谢~
+刚刚创建了QQ群 (**加群备注**：`蘑菇博客`) <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=soh24RYi"><img border="0" src="./doc/images/qq/group.png" alt="蘑菇博客交流群" title="蘑菇博客交流群"></a>，目前项目还存在很多不足之处，欢迎各位老哥进群进行技术交流，为了识别同行，防止广告进入，希望加群的时候能添加备注，谢谢~
 
-|             QQ群（加群备注：`蘑菇博客`）              |              QQ（备注：`蘑菇博客`）              |
-| :---------------------------------------------------: | :----------------------------------------------: |
-| <img src="./doc/images/qq/qqGroup.png" width="200" /> | <img src="./doc/images/qq/qq.png" width="200" /> |
+|         ~~QQ群（备注：`蘑菇博客`）【群满】~~          |            QQ群（备注：`蘑菇博客`）【推荐】            |
+| :---------------------------------------------------: | :----------------------------------------------------: |
+| <img src="./doc/images/qq/qqGroup.png" width="200" /> | <img src="./doc/images/qq/qqGroup2.png" width="200" /> |
 
 ## 赞赏
 
@@ -385,4 +509,3 @@ Java学习笔记，主要来源于B站上视频的学习，同时会记录平时
 |                       微信                       |                      支付宝                       |
 | :----------------------------------------------: | :-----------------------------------------------: |
 | <img src="./doc/images/qq/wx.png" width="200" /> | <img src="./doc/images/qq/zfb.png" width="200" /> |
-

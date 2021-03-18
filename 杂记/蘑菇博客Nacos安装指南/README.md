@@ -17,9 +17,7 @@
 
 因为我现在用的是window，所以我下载了windows版本，也就是 nacos-server.zip
 
-> 如果国内环境下载过慢，可以使用下面的这个地址
-> 链接：https://pan.baidu.com/s/1oTYQuqz1oMM5kTE_tl-8JQ 
-> 提取码：92gx 
+> 如果国内环境下载过慢，可以使用 [备用下载地址](https://wws.lanzous.com/i1rAmhrtroj)
 
 下载完成后，我们进行解压缩，然后进入 conf目录，打开 application.properties文件
 
@@ -40,9 +38,33 @@ db.password=root
 
 ![image-20200814150620395](images/image-20200814150620395.png)
 
-然后创建一个数据库脚 nacos_config，将配置导入到mysql中，然后我们到nacos目录，双击startup.bat启动
+然后创建一个数据库 nacos_config，将配置导入到mysql中
+
+> tip：如果导入时出现错误：Error Code: 1071 - Specified key was too long; max key length is 767 bytes
+>
+> 这个错误一般是mysql5.6版本引起的，只需要进入mysql
+>
+> ```bash
+> # 进入mysql
+> mysql -u root -p
+> # 使用mysql数据库
+> use mysql;
+> # 查看innodb_large_prefix状态，并开启 即可解决上述问题
+> show variables like '%innodb_large_prefix%';
+> set global innodb_large_prefix=on;
+> ```
+
+然后我们到nacos目录，双击startup.bat启动
 
 ![image-20200814150743682](images/image-20200814150743682.png)
+
+> 注意：如果上述启动出现错误，那么可能是因为集群模式启动出现问题，使用下面命令改成单机模式
+>
+> ```bash
+> startup.cmd -m standalone
+> ```
+
+启动成功的页面
 
 ![image-20200814150938013](images/image-20200814150938013.png)
 
